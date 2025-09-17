@@ -1,4 +1,4 @@
-# 💡 YesNoMaybe  
+# 🧠 YesNoMaybe  
 
 A simple and fun web app that gives you random **Yes**, **No**, or **Maybe** answers. Perfect for quick decisions or just for fun.  
 
@@ -12,10 +12,6 @@ A simple and fun web app that gives you random **Yes**, **No**, or **Maybe** ans
 Here's a preview of the app in action:
 
 ![YesNoMaybe Web App Screenshot](yesnomaybe-screenshot.png)
-
-## 🌐 Live Demo  
-You can try it out here:  
-👉 [Live Demo](https://tech-savvy1.github.io/YesNoMaybe/)
 
 ## 🛠️ Tech Stack  
 - HTML5 
